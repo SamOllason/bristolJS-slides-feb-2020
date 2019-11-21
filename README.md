@@ -6,4 +6,6 @@ with React Native.
 
 I created the slides with a React-based tool called Spectacle. You can view the live presentation [here](https://samollason.github.io/bdf-oct-2019-presentation/).
 
+The talk was based on [this](https://medium.com/@sam_ollason/react-native-vs-swift-ios-c144496f1519) article I wrote on Medium.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
