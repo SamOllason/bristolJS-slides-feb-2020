@@ -82,7 +82,7 @@ export default class Presentation extends React.Component {
                     <br/>
 
                     <Heading size={5} textColor="secondary">
-                        My experiences with React Native
+                        My experiences with mobile app development
                     </Heading>
                     <br/>
                     <br/>
