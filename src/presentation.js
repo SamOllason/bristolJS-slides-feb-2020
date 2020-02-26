@@ -3,6 +3,7 @@ import React from 'react';
 
 // Import Spectacle Core tags
 import {
+    Appear,
     BlockQuote,
     Deck,
     Heading,
@@ -66,44 +67,36 @@ export default class Presentation extends React.Component {
                 theme={theme}
             >
 
-                <Slide
-                    transition={['slide']}
-                    bgImage={images.firstSlide}
-                >
+                {/*<Slide transition={['slide']} bgImage={images.firstSlide}>*/}
+                <Slide transition={['slide']} bgColor="tertiary" >
                     <Heading size={1} caps textColor="primary">
                         Sam Ollason
                     </Heading>
                     <br/>
                     <br/>
 
-                    <Heading size={5} textColor="primary">
-                        Green13 Solutions
+                    <Heading size={3} textColor="primary">
+                        Seccl
                     </Heading>
                     <br/>
 
                     <Heading size={5} textColor="secondary">
-                        My experiences with mobile app development
+                        React Native and native iOS: my experience
                     </Heading>
                     <br/>
                     <br/>
 
                 </Slide>
 
-                <Slide transition={['fade']} bgColor="primary" textColor="tertiary">
-                    <Heading size={1} textColor="secondary">
-                        Me
-                    </Heading>
+                {/*<Slide transition={['fade']} bgColor="primary" textColor="tertiary">*/}
+                {/*    <Heading size={1} textColor="secondary">*/}
+                {/*        Me*/}
+                {/*    </Heading>*/}
 
-                    <List>
-                        <ListItem>Software Engineer at Green13 Solutions</ListItem>
-                        <br/>
-                        <ListItem>Manage development of user interfaces</ListItem>
-                        <br/>
-                        <ListItem>Research and development</ListItem>
-                        <br/>
-                        <ListItem>React, native iOS</ListItem>
-                    </List>
-                </Slide>
+                {/*    <List>*/}
+                {/*        <ListItem>Software Engineer at Seccl</ListItem>*/}
+                {/*    </List>*/}
+                {/*</Slide>*/}
 
                 <Slide transition={['fade']} bgColor="primary" textColor="tertiary">
 
@@ -190,7 +183,7 @@ export default class Presentation extends React.Component {
                     <List>
                         <ListItem>Generates actual native UI modules</ListItem>
                         <br/>
-                        <ListItem bulletStyle="star"><b>Takeaway:</b> User doesn't know its not a hybrid app!</ListItem>
+                        <ListItem bulletStyle="star"><b>Takeaway:</b> User doesn't know its not a true native app!</ListItem>
                     </List>
                     <Image src={images.pino} width={400} />
                 </Slide>
@@ -223,7 +216,7 @@ export default class Presentation extends React.Component {
                         <ListItem>Project Roadmap</ListItem>
                         {/*</Appear>*/}
                         {/*<Appear>*/}
-                        <ListItem>Publishing</ListItem>
+                        <ListItem>Deploying</ListItem>
                         {/*</Appear>*/}
                         {/*<Appear>*/}
                         <ListItem>Bugs and support</ListItem>
@@ -260,13 +253,15 @@ export default class Presentation extends React.Component {
                         {/*<Appear>*/}
                         <ListItem>'Almost' identical, so shallow learning curve</ListItem>
                         {/*</Appear>*/}
-                        <br/>
+                        {/*<br/>*/}
                         {/*<Appear>*/}
                         <ListItem>Some React Native pre-made components easier to work with than React</ListItem>
                         {/*</Appear>*/}
+                        <br/>
+                        {/*<Appear>*/}
+                        <ListItem>JavaScript under the surface</ListItem>
+                        {/*</Appear>*/}
                     </List>
-
-
                 </Slide>
 
                 <Slide transition={['fade']} bgColor="primary" textColor="tertiary">
@@ -409,7 +404,7 @@ export default class Presentation extends React.Component {
                         <br/>
 
                         <ListItem bulletStyle="star">React native > Native iOS</ListItem>
-                        <ListItem bulletStyle="star">React native > Native iROS</ListItem>
+                        {/*<ListItem bulletStyle="star">React native > Native iROS</ListItem>*/}
                         <br/>
 
                         <ListItem bulletStyle="star">React native same as React for the web</ListItem>
@@ -667,7 +662,7 @@ export default class Presentation extends React.Component {
 
                 <Slide transition={['fade']} bgColor="secondary" textColor="primary">
                     <BlockQuote>
-                        <Quote>Publishing</Quote>
+                        <Quote>Deploying</Quote>
                     </BlockQuote>
                 </Slide>
 
@@ -698,30 +693,29 @@ export default class Presentation extends React.Component {
                     <br/>
 
                     <Heading size={6} textColor="secondary">
-                        Initial release
+                        Deployment
                     </Heading>
 
                     <List>
                         <ListItem>Bundle, upload with Apple desktop tool</ListItem>
                         <br/>
-                        <ListItem>App agnostic at and beyond this point</ListItem>
-
+                        <ListItem>App is agnostic at and beyond this point</ListItem>
                     </List>
 
                     <br/>
 
                     <Heading size={6} textColor="secondary">
-                        Updates
+                        To publish to others with Expo app
                     </Heading>
 
                     <List>
-                        <ListItem>Over the air updates - bypass App Store</ListItem>
+                        <ListItem>Over the air updates - share demos with others</ListItem>
                     </List>
                 </Slide>
 
                 <Slide transition={['fade']} bgColor="tertiary" textColor="primary">
                     <Heading size={3} textColor="secondary" caps>
-                        Publishing
+                        Deploying
                     </Heading>
 
                     <br/>
@@ -873,7 +867,7 @@ export default class Presentation extends React.Component {
                             <br/>
 
                             <TableRow>
-                                <TableItem>Publishing:</TableItem>
+                                <TableItem>Deploying:</TableItem>
                                 <TableItem>React Native</TableItem>
                             </TableRow>
                             <br/>

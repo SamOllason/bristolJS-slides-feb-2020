@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "proxy": "https://localhost:5000",
-  "homepage": "http://SamOllason.github.io/bdf-oct-2019-presentation",
+  "homepage": "http://SamOllason.github.io/bristolJS-slides-feb-2020",
   "dependencies": {
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
