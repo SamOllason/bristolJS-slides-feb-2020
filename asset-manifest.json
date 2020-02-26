@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/bristolJS-slides-feb-2020/static/css/main.b100e6da.chunk.css",
+    "main.js": "/bristolJS-slides-feb-2020/static/js/main.aec14557.chunk.js",
+    "main.js.map": "/bristolJS-slides-feb-2020/static/js/main.aec14557.chunk.js.map",
+    "runtime-main.js": "/bristolJS-slides-feb-2020/static/js/runtime-main.8a87ad19.js",
+    "runtime-main.js.map": "/bristolJS-slides-feb-2020/static/js/runtime-main.8a87ad19.js.map",
+    "static/css/2.4cf5f81b.chunk.css": "/bristolJS-slides-feb-2020/static/css/2.4cf5f81b.chunk.css",
+    "static/js/2.782a1f23.chunk.js": "/bristolJS-slides-feb-2020/static/js/2.782a1f23.chunk.js",
+    "static/js/2.782a1f23.chunk.js.map": "/bristolJS-slides-feb-2020/static/js/2.782a1f23.chunk.js.map",
+    "index.html": "/bristolJS-slides-feb-2020/index.html",
+    "precache-manifest.1faa33be984ba1e4310b733d3e059d2b.js": "/bristolJS-slides-feb-2020/precache-manifest.1faa33be984ba1e4310b733d3e059d2b.js",
+    "service-worker.js": "/bristolJS-slides-feb-2020/service-worker.js",
+    "static/css/2.4cf5f81b.chunk.css.map": "/bristolJS-slides-feb-2020/static/css/2.4cf5f81b.chunk.css.map",
+    "static/css/main.b100e6da.chunk.css.map": "/bristolJS-slides-feb-2020/static/css/main.b100e6da.chunk.css.map",
+    "static/media/FlexBoxStyling.png": "/bristolJS-slides-feb-2020/static/media/FlexBoxStyling.78a8d998.png",
+    "static/media/InterfaceBuilderStyling1.png": "/bristolJS-slides-feb-2020/static/media/InterfaceBuilderStyling1.17d347ea.png",
+    "static/media/InterfaceBuilderStyling2.png": "/bristolJS-slides-feb-2020/static/media/InterfaceBuilderStyling2.f60f8777.png",
+    "static/media/WebStormSShot.png": "/bristolJS-slides-feb-2020/static/media/WebStormSShot.a1e5bbb9.png",
+    "static/media/XcodeSShot.png": "/bristolJS-slides-feb-2020/static/media/XcodeSShot.469e71cc.png",
+    "static/media/bridge.png": "/bristolJS-slides-feb-2020/static/media/bridge.ebf22707.png",
+    "static/media/firstSlide.png": "/bristolJS-slides-feb-2020/static/media/firstSlide.6490d74b.png",
+    "static/media/formidable-logo.svg": "/bristolJS-slides-feb-2020/static/media/formidable-logo.83119921.svg",
+    "static/media/good-work.gif": "/bristolJS-slides-feb-2020/static/media/good-work.9cb168d2.gif",
+    "static/media/jsxExample.png": "/bristolJS-slides-feb-2020/static/media/jsxExample.fab1b995.png",
+    "static/media/pino.jpg": "/bristolJS-slides-feb-2020/static/media/pino.d85be94b.jpg",
+    "static/media/react-native-logo.png": "/bristolJS-slides-feb-2020/static/media/react-native-logo.248cb156.png",
+    "static/media/sponsor1.png": "/bristolJS-slides-feb-2020/static/media/sponsor1.7e249c97.png",
+    "static/media/sponsor2.png": "/bristolJS-slides-feb-2020/static/media/sponsor2.92312d3d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a87ad19.js",
+    "static/css/2.4cf5f81b.chunk.css",
+    "static/js/2.782a1f23.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.aec14557.chunk.js"
+  ]
+}
