@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "43ca2e542fbcdf406501e0179a919812",
+    "revision": "9054f7ab50c13656047324bd76222b9d",
     "url": "/bristolJS-slides-feb-2020/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bristolJS-slides-feb-2020/static/css/2.4cf5f81b.chunk.css"
   },
   {
-    "revision": "c2e580197963033a1236",
+    "revision": "b2f142a4f038887091c7",
     "url": "/bristolJS-slides-feb-2020/static/css/main.b100e6da.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bristolJS-slides-feb-2020/static/js/2.782a1f23.chunk.js"
   },
   {
-    "revision": "c2e580197963033a1236",
-    "url": "/bristolJS-slides-feb-2020/static/js/main.aec14557.chunk.js"
+    "revision": "b2f142a4f038887091c7",
+    "url": "/bristolJS-slides-feb-2020/static/js/main.dea3a072.chunk.js"
   },
   {
     "revision": "fff266a1ca496d28b92b",

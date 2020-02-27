@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/bristolJS-slides-feb-2020/static/css/main.b100e6da.chunk.css",
-    "main.js": "/bristolJS-slides-feb-2020/static/js/main.aec14557.chunk.js",
-    "main.js.map": "/bristolJS-slides-feb-2020/static/js/main.aec14557.chunk.js.map",
+    "main.js": "/bristolJS-slides-feb-2020/static/js/main.dea3a072.chunk.js",
+    "main.js.map": "/bristolJS-slides-feb-2020/static/js/main.dea3a072.chunk.js.map",
     "runtime-main.js": "/bristolJS-slides-feb-2020/static/js/runtime-main.8a87ad19.js",
     "runtime-main.js.map": "/bristolJS-slides-feb-2020/static/js/runtime-main.8a87ad19.js.map",
     "static/css/2.4cf5f81b.chunk.css": "/bristolJS-slides-feb-2020/static/css/2.4cf5f81b.chunk.css",
     "static/js/2.782a1f23.chunk.js": "/bristolJS-slides-feb-2020/static/js/2.782a1f23.chunk.js",
     "static/js/2.782a1f23.chunk.js.map": "/bristolJS-slides-feb-2020/static/js/2.782a1f23.chunk.js.map",
     "index.html": "/bristolJS-slides-feb-2020/index.html",
-    "precache-manifest.1faa33be984ba1e4310b733d3e059d2b.js": "/bristolJS-slides-feb-2020/precache-manifest.1faa33be984ba1e4310b733d3e059d2b.js",
+    "precache-manifest.f487d16da77d21cef9424687167e180e.js": "/bristolJS-slides-feb-2020/precache-manifest.f487d16da77d21cef9424687167e180e.js",
     "service-worker.js": "/bristolJS-slides-feb-2020/service-worker.js",
     "static/css/2.4cf5f81b.chunk.css.map": "/bristolJS-slides-feb-2020/static/css/2.4cf5f81b.chunk.css.map",
     "static/css/main.b100e6da.chunk.css.map": "/bristolJS-slides-feb-2020/static/css/main.b100e6da.chunk.css.map",
@@ -33,6 +33,6 @@
     "static/css/2.4cf5f81b.chunk.css",
     "static/js/2.782a1f23.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.aec14557.chunk.js"
+    "static/js/main.dea3a072.chunk.js"
   ]
 }

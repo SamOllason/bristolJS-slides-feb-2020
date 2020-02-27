@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bristolJS-slides-feb-2020/precache-manifest.1faa33be984ba1e4310b733d3e059d2b.js"
+  "/bristolJS-slides-feb-2020/precache-manifest.f487d16da77d21cef9424687167e180e.js"
 );
 
 self.addEventListener('message', (event) => {
