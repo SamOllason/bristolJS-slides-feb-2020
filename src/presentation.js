@@ -898,8 +898,7 @@ export default class Presentation extends React.Component {
 
                     <List>
                         <ListItem><a href="https://medium.com/@sam_ollason/react-native-vs-swift-ios-c144496f1519" target="_blank" rel="noopener noreferrer">Article</a> by Sam Ollason on Medium</ListItem>
-                        <ListItem>Source code for slides on<a href="https://github.com/SamOllason/bristolJS-slides-feb-2020" target="_blank" rel="noopener noreferrer">GitHub</a></ListItem>
-                        <ListItem><a href="https://samollason.github.io/bristolJS-slides-feb-2020/#/" target="_blank" rel="noopener noreferrer">Slides</a></ListItem>
+                        <ListItem>Source code for slides on <a href="https://github.com/SamOllason/bristolJS-slides-feb-2020" target="_blank" rel="noopener noreferrer">GitHub</a></ListItem>
                         <ListItem>Created with <a href="https://github.com/FormidableLabs/spectacle/blob/master/README.md" target="_blank" rel="noopener noreferrer">Spectacle</a> ... using React!!!</ListItem>
                     </List>
                 </Slide>
